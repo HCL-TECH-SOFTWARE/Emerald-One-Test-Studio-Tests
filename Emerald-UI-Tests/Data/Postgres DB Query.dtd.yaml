@@ -1,2 +1,2 @@
-connection: ""
-statement: ""
+connection: "Postgres DB"
+statement: "SELECT \"Name\",\"Address\" FROM \"Employee\""
