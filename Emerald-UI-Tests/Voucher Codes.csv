@@ -1,7 +1,6 @@
-Column1,Column2,Column3
-,,
-,,
-,,
-,,
-,,
-,,
+Description,Discount,Code
+Valentine promotion - stackable,10%,VALENTINE24
+New cutomer promo - non stackable,10%,NEWCUSTFEB
+New cutomer promo - non stackable,10,NEWCUSTMAR
+New cutomer promo - non stackable,15,NEWCUSTAPR
+VIP promo - non stackable,30,PROMO24
