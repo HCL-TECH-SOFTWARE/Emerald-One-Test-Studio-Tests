@@ -1,5 +1,0 @@
-connection: "Oracle DB"
-statement: "SELECT \n\te.\"FIRST_NAME\",\n\te.\"LAST_NAME\",\n\te.\"EMAIL\",\n\te.\"\
-  PHONE_NUMBER\",\n\te.\"HIRE_DATE\",\n\te.\"SALARY\",\n\tj.\"JOB_TITLE\",\n\td.\"\
-  DEPARTMENT_NAME\"\nFROM \n\t\"EMPLOYEES\" e\nJOIN \n\t\"JOBS\" j on e.\"JOB_ID\"\
-  \ =j.\"JOB_ID\"\nJOIN \n\"DEPARTMENTS\" d on e.\"DEPARTMENT_ID\" =d.\"DEPARTMENT_ID\""
