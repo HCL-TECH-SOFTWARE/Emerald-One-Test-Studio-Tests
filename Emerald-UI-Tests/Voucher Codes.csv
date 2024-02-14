@@ -1,6 +1,6 @@
 Description,Discount,Code
-Valentine promotion - stackable,10%,VALENTINE24
-New customer promo - non stackable,10%,NEWCUSTFEB
-New customer promo - non stackable,10,NEWCUSTMAR
-New customer promo - non stackable,15,NEWCUSTAPR
-VIP promo - non stackable,30,PROMO24
+Valentine promotion - stackable,10%,VALENTINE10
+New customer promo - non stackable,10%,NEWFEB
+New customer promo - non stackable,10,NEWMAR
+New customer promo - non stackable,15,NEWAPR
+VIP promo - non stackable,30,VIP30
