@@ -5,6 +5,12 @@
 	<classpathentry kind="src" output="bin" path="src"/>
 	<classpathentry kind="lib" path="libs/gson-2.8.6-javadoc.jar"/>
 	<classpathentry kind="lib" path="libs/gson-2.8.6.jar"/>
-	<classpathentry kind="lib" path="C:/Users/stuart.walker/HCL/hclonetest/Emerald/zippedExtLibs/RPTKHelpers.zip"/>
+	<classpathentry kind="lib" path="C:/IBM/IBMMaster/IBMIMShared/plugins/com.ibm.rational.test.lt.codegen.core_7.3.2310.v20240805_2115/libraries/httpclient-4.5.13.jar"/>
+	<classpathentry kind="lib" path="C:/IBM/IBMMaster/IBMIMShared/plugins/com.ibm.rational.test.lt.codegen.core_7.3.2310.v20240805_2115/libraries/httpcore-4.4.13.jar"/>
+	<classpathentry kind="lib" path="C:/IBM/IBMMaster/IBMIMShared/plugins/com.ibm.rational.test.lt.codegen.core_7.3.2310.v20240805_2115/libraries/commons-codec-1.15.jar"/>
+	<classpathentry kind="lib" path="C:/IBM/IBMMaster/IBMIMShared/plugins/com.ibm.rational.test.lt.codegen.core_7.3.2310.v20240805_2115/libraries/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/IBM/IBMMaster/IBMIMShared/plugins/com.ibm.rational.test.lt.codegen.core_7.3.2310.v20240805_2115/libraries/httpmime-4.5.6.jar"/>
+	<classpathentry kind="lib" path="C:/IBM/IBMMaster/IBMIMShared/plugins/com.ibm.rational.test.lt.codegen.core_7.3.2310.v20240805_2115/libraries/slf4j-simple-1.7.30.jar"/>
+	<classpathentry kind="lib" path="C:/Runtimes/runtime-Emerald/zippedExtLibs/RPTKHelpers.zip"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
