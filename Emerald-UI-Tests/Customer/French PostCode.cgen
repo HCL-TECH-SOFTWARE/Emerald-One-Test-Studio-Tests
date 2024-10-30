@@ -1,0 +1,1 @@
+{"name":"French PostCode","version":"0.0.1","categoryId":"c06d204c-df9a-4459-ad20-4cdf9ad4591a","parentGenerator":"Regex","globalProperties":{"randomDistribution":"false","duplicatesAllowed":"true","blankPercentage":"0"},"configurations":[{"name":"Default","weightage":100.0,"properties":{"regex":"[a-z]{4}"}}]}
