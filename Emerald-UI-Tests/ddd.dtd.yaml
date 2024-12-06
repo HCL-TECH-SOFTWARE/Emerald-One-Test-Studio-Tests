@@ -1,2 +1,2 @@
 connection: ""
-statement: ""
+statement: "select email, firstname, lastname, phone"
